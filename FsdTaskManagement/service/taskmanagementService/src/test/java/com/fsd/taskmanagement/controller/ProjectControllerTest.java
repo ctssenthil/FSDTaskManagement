@@ -42,6 +42,7 @@ public class ProjectControllerTest {
 
     @Test
     public void testUpdateProject() {
+        //
         //GIVEN
         Project project = new Project();
         project.setProjectName("Java");

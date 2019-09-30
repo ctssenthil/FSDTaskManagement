@@ -30,7 +30,7 @@ public class TaskControllerTest
     {
         //GIVEN
         ParentTask parent= new ParentTask();
-        parent.setParentTask("Parent Task");
+        parent.setParentTask("Parent Task ");
 
         //WHEN
         ParentTask parentTask = taskController.saveParentTask(parent);

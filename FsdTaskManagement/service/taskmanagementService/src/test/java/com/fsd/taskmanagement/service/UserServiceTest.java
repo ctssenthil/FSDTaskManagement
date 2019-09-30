@@ -57,7 +57,7 @@ public class UserServiceTest {
 
 
         user2.setEmpId(100L);
-        user2.setFirstName("MaranKUMAR");
+        user2.setFirstName("MaranKUMAR1");
         user2.setLastName("R");
         user2.setDeleted(false);
         //WHEN

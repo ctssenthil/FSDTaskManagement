@@ -31,7 +31,7 @@ public class UserControllerTest {
         //GIVEN
         User user = new User();
         user.setEmpId(100L);
-        user.setFirstName("Maran");
+        user.setFirstName("MaranK");
         user.setLastName("R");
         user.setDeleted(false);
 

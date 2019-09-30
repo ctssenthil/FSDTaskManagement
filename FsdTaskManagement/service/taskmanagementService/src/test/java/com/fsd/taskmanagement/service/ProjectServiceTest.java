@@ -30,7 +30,7 @@ public class ProjectServiceTest {
     public void testAddProject() {
         //GIVEN
         Project project = new Project();
-        project.setProjectName("Java");
+        project.setProjectName("Java8");
         project.setCompleted(false);
         //WHEN
         Project resultProject = projectService.addProject(project);
